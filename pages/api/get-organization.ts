@@ -1,0 +1,1 @@
+// check if user is an enterprise customer using Team name
