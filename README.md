@@ -19,8 +19,9 @@ npm install
 After you sign up at [WorkOS](https://dashboard.workos.com/signup), go to the `configuration` tab on the left and copy the Client ID.
 
 Next, navigate to the API keys tab on the left and grab a secret key.
+ 
 
-Finally, run the following command to start the development server at http://localhost:3000
+Finally, rename the `.env.example` file to `.env` and run the following command to start the development server at http://localhost:3000
 
 ```bash
 npm run dev
